@@ -1,0 +1,10 @@
+project_id,company_id,project,status,semester
+P01,C01,Operations & Growth Assessment,Completed,Spring 2025
+P02,C01,Growth Strategy Project,In Progress,Fall 2025
+P03,C02,Talent Pipeline Project,Completed,Fall 2025
+P04,C03,Scheduling Process Improvement,Completed,Fall 2025
+P05,C03,Referral Analytics Project,Not Started,Spring 2026
+P06,C04,Supply Chain Analytics Project,In Progress,Spring 2026
+P07,C05,Marketing Automation Project,Completed,Spring 2025
+P08,C05,Marketing Analytics Project,Not Started,Spring 2026
+P09,C06,Digital Marketing Strategy,Completed,Fall 2025

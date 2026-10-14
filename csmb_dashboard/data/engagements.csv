@@ -1,0 +1,11 @@
+engagement_id,company_id,type,date,employees_reported
+E01,C01,SMB Lab,2025-02-14,6
+E02,C01,Follow-up,2025-10-03,8
+E03,C02,SMB Lab,2025-09-19,48
+E04,C02,Follow-up,2026-03-06,56
+E05,C03,SMB Lab,2025-11-07,26
+E06,C03,Follow-up,2026-04-03,31
+E07,C04,SMB Lab,2026-02-20,83
+E08,C05,SMB Lab,2025-04-11,8
+E09,C05,Follow-up,2026-01-16,11
+E10,C06,SMB Lab,2025-09-19,14
